@@ -57,3 +57,42 @@ Assignments are designed to be directly applicable to real-world ML workflows.
 
 ## 📁 Repository Structure
 
+---
+
+
+---
+
+## 💡 Capstone Project Ideas
+
+Students will choose a mini-project that includes:
+
+- Defining a problem statement
+- Selecting suitable ML algorithms
+- Data processing and model training
+- Performance evaluation and reporting
+
+---
+
+## ✅ Tools & Libraries Used
+
+- Python 3.x
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- scikit-learn
+- TensorFlow/Keras
+
+---
+
+## 📜 License
+
+This content is educational and open-source. Feel free to use, modify, or extend for learning or teaching purposes.
+
+---
+
+## 👩‍💻 Maintainer
+
+**Your Name**  
+[LinkedIn](https://www.linkedin.com/in/vijaydwivedi/) • [GitHub](https://github.com/your-username)
+
+
+
