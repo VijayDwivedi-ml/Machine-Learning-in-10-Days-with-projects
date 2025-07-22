@@ -85,7 +85,7 @@ This content is educational and open-source. Feel free to use, modify, or extend
 ## 👩‍💻 Maintainer
 
 **Your Name**  
-[LinkedIn](https://www.linkedin.com/in/vijaydwivedi/) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/vijaydwivedi/) • [GitHub](https://github.com/VijayDwivedi-ml/VijayDwivedi-ml)
 
 
 
