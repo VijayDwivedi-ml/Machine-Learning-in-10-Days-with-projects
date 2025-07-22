@@ -76,6 +76,17 @@ Students will choose a mini-project that includes:
 
 ---
 
+## 📚 Reference
+
+The concepts and structure from the book partially inspire this course.
+
+> **An Introduction to Statistical Learning**  
+> Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani  
+> Available freely at: [www.statlearning.com](https://www.statlearning.com/)
+
+---
+
+
 ## 📜 License
 
 This content is educational and open-source. Feel free to use, modify, or extend for learning or teaching purposes.
