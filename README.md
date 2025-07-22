@@ -55,27 +55,6 @@ Assignments are designed to be directly applicable to real-world ML workflows.
 
 ---
 
-## 📁 Repository Structure
-
-ml-bootcamp/
-├── Day_01_Python_Numpy_Pandas/
-├── Day_02_ML_Intro_LinearAlgebra/
-├── Day_03_Probability_Calculus/
-├── Day_04_Regression/
-├── Day_05_Classification/
-├── Day_06_Model_Evaluation/
-├── Day_07_Hyperparameter_Tuning/
-├── Day_08_Unsupervised_Clustering_PCA/
-├── Day_09_Neural_Networks_TF/
-├── Day_10_Capstone_Project/
-├── data/ # Sample datasets
-└── README.md
-
----
-
-
----
-
 ## 💡 Capstone Project Ideas
 
 Students will choose a mini-project that includes:
